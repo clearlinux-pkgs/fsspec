@@ -4,7 +4,7 @@
 #
 Name     : fsspec
 Version  : 2021.10.1
-Release  : 10
+Release  : 11
 URL      : https://files.pythonhosted.org/packages/dd/05/2bf31696ea1633d54e771f56b6080cdb7ba57f1be21fcc69808d141b3f4b/fsspec-2021.10.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/dd/05/2bf31696ea1633d54e771f56b6080cdb7ba57f1be21fcc69808d141b3f4b/fsspec-2021.10.1.tar.gz
 Summary  : File-system specification
@@ -76,7 +76,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1635454295
+export SOURCE_DATE_EPOCH=1635728975
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
