@@ -1,5 +1,5 @@
 PKG_NAME := fsspec
-URL = https://files.pythonhosted.org/packages/f8/32/9531a913d0a01fe6010bde761946bad72419f51be5056cfefa926656cccf/fsspec-2021.11.0.tar.gz
+URL = https://files.pythonhosted.org/packages/a5/b1/9c247e65c565e863643763020366b492a6bd4b1fd5854cbc8bdc42bd87ff/fsspec-2021.11.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
